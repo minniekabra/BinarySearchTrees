@@ -1,4 +1,9 @@
 #python2
+
+'''
+This code checks if a binary tree is a Binary search tree or nor 
+'''
+
 from __future__ import  print_function
 
 import sys, threading
