@@ -1,4 +1,18 @@
 #python2
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 1 12:07:46 2018
+
+@author: minnie
+"""
+
+'''
+This code implement in-order, pre-order and post-order traversals of a binary tree
+'''
+
+
 from __future__ import  print_function
 
 import sys, threading
